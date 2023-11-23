@@ -360,5 +360,35 @@
       "category":"home-decoration",
       "thumbnail":"https://i.dummyjson.com/data/products/30/thumbnail.jpg"
     }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "category": "personal",
+      "description": "Salir a correr por las mañanas",
+      "done": false
+    },
+    {
+      "id": 2,
+      "category": "work",
+      "description": "Preparar informe",
+      "done": true
+    },
+    {
+      "id": 3,
+      "category": "hobby",
+      "description": "Leer dos capitulos del libro",
+      "done": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Jennifer Alarcón",
+      "username": "jenn_as26",
+      "email": "jennifer@gmail.com",
+      "password": "Jennifer1234",
+      "profilePicture": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1700768280/tumblr_55c4c7c770dabe1e70cd57449b9d2a72_3f6e7205_500_qlgodw.jpg"
+    }
   ]
 }
